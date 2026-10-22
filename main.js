@@ -27,8 +27,8 @@ const SESSION_SECRET = process.env.SESSION_SECRET || process.env.FLASK_SECRET_KE
 const WEBHOOK_SUCCESS = process.env.WEBHOOK_SUCCESS;
 const WEBHOOK_ERROR   = process.env.WEBHOOK_ERROR;
 
-const AUDIO_URL        = 'https://www.nudgehost.com/h6k2ebrv';
-const BACKGROUND_IMAGE = 'https://freeimage.host/i/nOUdOeS';
+const AUDIO_URL        = 'https://files.catbox.moe/fzo7kw.mp3';
+const BACKGROUND_IMAGE = 'https://files.catbox.moe/39bnv5.jpg';
 
 const REQUIRED_ENV = [
     'BOT_TOKEN',
