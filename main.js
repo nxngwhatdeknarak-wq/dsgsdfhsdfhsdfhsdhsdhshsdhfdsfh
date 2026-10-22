@@ -540,7 +540,7 @@ function renderDashboard({ user, roleNameSafe, roleColorSafe, usersJson, discord
   <div class="top-action-bar">
     <div class="brand-cluster">
       <div class="brand-logo-gem">
-        <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+          <img src="https://files.catbox.moe/39bnv5.jpg" alt="Logo" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
           <circle cx="24" cy="24" r="22" fill="none" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" stroke-dasharray="3 4"/>
           <ellipse cx="17" cy="22" rx="4" ry="4.6" fill="#fff"/>
           <ellipse cx="31" cy="22" rx="4" ry="4.6" fill="#fff"/>
