@@ -485,7 +485,7 @@ ${isUser ? renderDashboard({
     <svg viewBox="0 0 24 24"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/></svg>
   </div>
   <div class="music-track-meta">
-    <div class="music-track-name">MEYOU - อีกแล้ว ft. Jigsaw</div>
+    <div class="music-track-name">สิงคโปร์ (feat. SIMON) </div>
     <div class="music-track-status">
       <span id="musicStateLabel">กำลังเตรียมเพลง...</span>
       <div class="eq-wave-group paused" id="eqWaves">
